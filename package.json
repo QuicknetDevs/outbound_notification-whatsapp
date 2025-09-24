@@ -24,14 +24,14 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QuicknetDevs/whatsapp-saliente-wxcc.git"
+    "url": "git+https://github.com/QuicknetDevs/outbound_notification-whatsapp.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "bugs": {
-    "url": "https://github.com/QuicknetDevs/whatsapp-saliente-wxcc/issues"
+    "url": "https://github.com/QuicknetDevs/outbound_notification-whatsapp/issues"
   },
-  "homepage": "https://quicknetdevs.github.io/whatsapp-saliente-wxcc"
+  "homepage": "https://quicknetdevs.github.io/outbound_notification-whatsapp"
 }
